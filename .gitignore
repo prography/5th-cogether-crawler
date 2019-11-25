@@ -1,2 +1,5 @@
-database.ini
-dummy.py
+# editor
+.idea
+
+# secret key
+secrets.json
